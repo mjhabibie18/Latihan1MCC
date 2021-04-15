@@ -1,0 +1,7 @@
+C:\Users\aden\Desktop\Bootcamp\Latihan1MCC\Latihan1MCC\bin\Debug\Latihan1MCC.exe.config
+C:\Users\aden\Desktop\Bootcamp\Latihan1MCC\Latihan1MCC\bin\Debug\Latihan1MCC.exe
+C:\Users\aden\Desktop\Bootcamp\Latihan1MCC\Latihan1MCC\bin\Debug\Latihan1MCC.pdb
+C:\Users\aden\Desktop\Bootcamp\Latihan1MCC\Latihan1MCC\obj\Debug\Latihan1MCC.csprojAssemblyReference.cache
+C:\Users\aden\Desktop\Bootcamp\Latihan1MCC\Latihan1MCC\obj\Debug\Latihan1MCC.csproj.CoreCompileInputs.cache
+C:\Users\aden\Desktop\Bootcamp\Latihan1MCC\Latihan1MCC\obj\Debug\Latihan1MCC.exe
+C:\Users\aden\Desktop\Bootcamp\Latihan1MCC\Latihan1MCC\obj\Debug\Latihan1MCC.pdb
